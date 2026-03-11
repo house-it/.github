@@ -81,10 +81,14 @@
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/gRPC-3E8EDE?logo=grpc&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -113,6 +117,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
